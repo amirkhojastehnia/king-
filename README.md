@@ -1,2 +1,2 @@
- king-
+ kin-
 this file
