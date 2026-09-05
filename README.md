@@ -1,3 +1,3 @@
 
 ng
-m king
+ king
