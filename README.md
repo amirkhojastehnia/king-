@@ -1,3 +1,3 @@
 
 ng
-
+m a god 
