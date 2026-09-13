@@ -1,4 +1,4 @@
 
 ng
 m a god 
-im agod 
+m agod 
