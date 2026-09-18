@@ -1,4 +1,4 @@
 
 ng
-m a g 
+m a  
 od 
