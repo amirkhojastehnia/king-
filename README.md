@@ -1,3 +1,3 @@
  od
-m a god 
+m a go 
 
