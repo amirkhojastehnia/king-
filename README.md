@@ -1,3 +1,3 @@
  od
-m a go 
+ a go 
 
