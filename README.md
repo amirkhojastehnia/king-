@@ -1,3 +1,3 @@
 d
 im  
-im a god 
+im a go
