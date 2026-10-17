@@ -1,3 +1,3 @@
 d
 im  
-im a go
+m a go
