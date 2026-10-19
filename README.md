@@ -1,3 +1,3 @@
 d
 im  
-m a o
+ a o
